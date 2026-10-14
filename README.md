@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Sameh Fangry</h1>
 <h3 align="center">Software Engineer | Full Stack .NET & Angular Developer</h3>
 
-- 🌱 Courses **Completed a 6-month Information Technology Institute (ITI) Full Stack .NET Development Program**
+- 🌱 Courses **Completed a 9-month Information Technology Institute (ITI) Full Stack .NET Development Program**
 
 - 💬 Ask me about **ASP.NET Core, Angular, REST APIs, SQL Server, Entity Framework Core, C#**
 
